@@ -14,6 +14,7 @@ Start the dev server,
 $ yarn start
 ```
 项目访问地址（你的服务启动后需要在后面加上users才能看到页面）：http://localhost:8000/users
+具体教程地址：https://juejin.cn/post/6983855069850501127
 
 这是一个简单的增删改查项目。  
 1、涉及知识点：  
